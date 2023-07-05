@@ -84,10 +84,10 @@ var SPEC_POS = {
 	"成都工业学院" : [103.892736, 30.793023]
 };
 
-var MAP_TITLE = "高三十一班蹭饭地图";
+var MAP_TITLE = "去向图";
 
 var ABOUT = {
-	"作者" : ["Yuehao"],
-	"数据整理" : ["XiangqiZeng"],
+	"作者" : ["小火龙"],
+	"数据整理" : ["小火龙"],
 	"框架" : ["irmap", "Bootstrap", "百度地图"]
 };
