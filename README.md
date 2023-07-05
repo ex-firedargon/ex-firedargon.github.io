@@ -49,7 +49,6 @@ var SPEC_POS = {
 var MAP_TITLE = "毕业去向";
 
 var ABOUT = {
-	"作者" : ["Yuehao"],
 	"框架" : ["irmap", "Bootstrap", "百度地图"]
 };
 ```

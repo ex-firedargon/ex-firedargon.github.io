@@ -87,7 +87,5 @@ var SPEC_POS = {
 var MAP_TITLE = "去向图";
 
 var ABOUT = {
-	"作者" : ["小火龙"],
-	"数据整理" : ["小火龙"],
 	"框架" : ["irmap", "Bootstrap", "百度地图"]
 };
